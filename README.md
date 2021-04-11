@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/klarEDA/klar-EDA.svg?branch=master)](https://travis-ci.org/klarEDA/klar-EDA)
 # klar-eda
 
 A python library for automated exploratory data analysis
@@ -8,9 +9,9 @@ A python library for automated exploratory data analysis
 
 *Presentation*  - https://youtu.be/FsDV6a-L-wo
 
-The aim of the library is to ease the data exploration and preprocessing steps and provide a smart and automated technique for exploratory analysis of the data
+The library aims to ease the data exploration and preprocessing steps and provide a smart and automated technique for exploratory analysis of the data
 
-The library consists of following modules
+The library consists of the following modules
 * CSV Data Visualization
 * CSV Data Preprocessing
 * Image Data Visualization
